@@ -1,5 +1,4 @@
 require 'rspec'
-require 'pry'
 
 def merge_sort(array)
   return array if array.length <= 1
